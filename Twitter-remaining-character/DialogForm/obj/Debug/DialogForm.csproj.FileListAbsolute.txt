@@ -1,0 +1,10 @@
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\bin\Debug\DialogForm.exe.config
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\bin\Debug\DialogForm.exe
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\bin\Debug\DialogForm.pdb
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.Form1.resources
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.exe
+C:\Users\muham\source\forms app\Form-1.0\DialogForm\obj\Debug\DialogForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\bin\Debug\TwitterKalanKarakterSayisi.exe.config
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\bin\Debug\TwitterKalanKarakterSayisi.exe
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\bin\Debug\TwitterKalanKarakterSayisi.pdb
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.Form1.resources
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.exe
+C:\Users\muham\source\forms app\Form-1.0\TwitterKalanKarakterSayisi\obj\Debug\TwitterKalanKarakterSayisi.pdb

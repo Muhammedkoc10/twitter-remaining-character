@@ -1,0 +1,10 @@
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\muham\source\forms app\Form-1.0\Ornek1\obj\Debug\Ornek1.pdb
